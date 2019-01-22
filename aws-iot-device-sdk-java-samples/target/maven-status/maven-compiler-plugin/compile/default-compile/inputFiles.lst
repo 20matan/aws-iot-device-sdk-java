@@ -1,0 +1,10 @@
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/sampleUtil/CommandArguments.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadowEcho/ShadowEchoSample.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/pubSub/NonBlockingPublishListener.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadowEcho/Thing.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/pubSub/PublishSubscribeSample.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/pubSub/TestTopicListener.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/sampleUtil/PrivateKeyReader.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadow/ShadowSample.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/shadow/ConnectedWindow.java
+/Users/matanp/mqtt-poc/20matan.aws-iot-device-sdk-jafa/aws-iot-device-sdk-java-samples/src/main/java/com/amazonaws/services/iot/client/sample/sampleUtil/SampleUtil.java
