@@ -145,6 +145,7 @@ public class AwsIotMqttConnection extends AwsIotConnection {
 
         options.setSocketFactory(socketFactory);
         options.setCleanSession(false);
+        System.out.println("set clean session to false");
         options.setConnectionTimeout(client.getConnectionTimeout() / 1000);
         options.setKeepAliveInterval(client.getKeepAliveInterval() / 1000);
         if(client.isClientEnableMetrics()) {
